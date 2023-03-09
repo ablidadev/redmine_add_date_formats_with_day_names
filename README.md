@@ -40,7 +40,7 @@ To do this, simply click on Administration at the top of your menu bar, then on 
 
 ![](screenshots/configuration-dropdown.png "Screenshot of dropdown.")
 
-### Using the Knowledgebase
+### Using the Plugin
 
 Once you have selected a new option, it should automacially be rendered upon ur new page-refresh(s).
 
